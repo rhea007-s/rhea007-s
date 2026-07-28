@@ -1,16 +1,29 @@
-## Hi there 👋
+## Merhaba, ben Reha 👋
 
-<!--
-**rhea007-s/rhea007-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 İstanbul · she/her
+Kod yazmayı seven bir geliştiriciyim; özellikle turizm ve transfer sektörüne yönelik web siteleri ve mini uygulamalar üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+### 🚀 Öne Çıkan Projelerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚘 Luxury VIP Transfer Website
+İstanbul'u ziyaret eden misafirler için lüks VIP transfer hizmeti sunan tanıtım ve rezervasyon web sitesi. JavaScript ile geliştirildi.
+➡️ [luxury-transfer-website](https://github.com/rhea007-s/luxury-transfer-website)
+
+#### ✈️ EasyTransferForVIP
+İstanbul'da seyahat eden herkes için kolay ve hızlı transfer çözümleri sunan bir turizm uygulaması.
+➡️ [easytransferforvip](https://github.com/rhea007-s/easytransferforvip)
+
+#### 🏠 KyK
+Ev arkadaşları için ortak yaşam alanlarını kolaylaştıran mini grup uygulaması.
+➡️ [KyK](https://github.com/rhea007-s/KyK)
+
+#### 🗺️ Google Maps Scraper (Fork)
+İşletme adı, adres, telefon, web sitesi, puan, yorum ve konum gibi verileri Google Haritalar üzerinden çeken açık kaynaklı bir araç.
+➡️ [google-maps-scraper](https://github.com/rhea007-s/google-maps-scraper)
+
+### 🛠️ Teknolojiler
+`JavaScript` · `Go` · `HTML/CSS` · `Git & GitHub`
+
+### 📫 İletişim
+- ✉️ ksuedanil@gmail.com
+- 📍 İstanbul, Türkiye
