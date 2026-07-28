@@ -1,4 +1,10 @@
-## Merhaba, ben Reha 👋
+## 👋 Merhaba, ben Reha
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reha+Ceviker&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer&descAlignY=55&descSize=18)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;VIP+Transfer+ve+Turizm+Projeleri;Merhaba+Istanbul!)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rhea007-s&color=blueviolet&style=flat)
 
 📍 İstanbul · she/her
 Kod yazmayı seven bir geliştiriciyim; özellikle turizm ve transfer sektörüne yönelik web siteleri ve mini uygulamalar üzerine çalışıyorum.
@@ -24,6 +30,16 @@ Ev arkadaşları için ortak yaşam alanlarını kolaylaştıran mini grup uygul
 ### 🛠️ Teknolojiler
 `JavaScript` · `Go` · `HTML/CSS` · `Git & GitHub`
 
+[![My Skills](https://skillicons.dev/icons?i=js,go,html,css,git,github)](https://skillicons.dev)
+
 ### 📫 İletişim
 - ✉️ ksuedanil@gmail.com
 - 📍 İstanbul, Türkiye
+
+
+### 📊 GitHub İstatistiklerim
+
+![Reha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhea007-s&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhea007-s&theme=radical&hide_border=true)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
