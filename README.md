@@ -38,6 +38,5 @@ Ev arkadaşları için ortak yaşam alanlarını kolaylaştıran mini grup uygul
 ### 📊 GitHub İstatistiklerim
 
 ![Reha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhea007-s&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhea007-s&theme=radical&hide_border=true)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
