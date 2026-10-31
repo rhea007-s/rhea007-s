@@ -1,7 +1,5 @@
 ## 👋 Merhaba, ben Nil
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reha+Ceviker&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer&descAlignY=55&descSize=18)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Tasarimi+ve+Backend+Gelistirme;Merhaba+Istanbul!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rhea007-s&color=blueviolet&style=flat)
